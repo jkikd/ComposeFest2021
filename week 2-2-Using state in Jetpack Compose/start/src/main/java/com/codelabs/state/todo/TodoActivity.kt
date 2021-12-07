@@ -32,7 +32,7 @@ class TodoActivity : AppCompatActivity() {
         setContent {
             StateCodelabTheme {
                 Surface {
-                    // TODO: build the screen in compose
+                    // TODO: build the screen in compos
                 }
             }
         }
